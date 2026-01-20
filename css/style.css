@@ -322,10 +322,6 @@ header area start
     transition: 0.5s;
 }
 
-.logo img {
-    width: 200px;
-}
-
 /*======================== Menu Design ==================*/
 
 .menu-area {
@@ -1166,3 +1162,4 @@ footer area end
 @media only screen and (min-width: 480px) and (max-width: 767px) {}
 
 /*--========================= Responsive.css end --==========================*/
+
